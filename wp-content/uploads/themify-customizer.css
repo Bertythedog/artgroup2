@@ -1,0 +1,4 @@
+body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: normal;font-size: 26px;color: #ff950d;display: none;}
+#site-description {font-family: "Caveat Brush";font-weight: normal;font-size: 3em;text-align: left;color: #fff;}
+#footer, #footer-logo, .footer-nav a, .footer-text {font-family: "Roboto";font-weight: 100;font-size: 20px;}
+#footer .footer-widgets .widgettitle {font-family: "Roboto";font-weight: 500;}
