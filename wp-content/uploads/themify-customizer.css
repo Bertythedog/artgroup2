@@ -1,4 +1,4 @@
-body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;font-size: 60%;color: #ff950d;}
+body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;font-size: 22px;color: #ff950d;}
 #site-description {font-family: "Caveat Brush";font-weight: normal;text-align: left;color: #fff;display: none;}
 #footer, #footer-logo, .footer-nav a, .footer-text {font-family: "Roboto";font-weight: 100;font-size: 20px;}
 #footer .footer-widgets .widgettitle {font-family: "Roboto";font-weight: 500;}
