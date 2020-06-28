@@ -1,17 +1,21 @@
-body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: normal;font-size: .8em;color: #ff950d;}
-#site-description {font-family: "Caveat Brush";font-weight: normal;text-align: left;color: #fff;display: none;}
+body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: normal;font-size: 100%;text-align: left;color: #ff950d;display: none;}
+#site-description {font-family: "Caveat Brush";font-weight: normal;font-size: 150%;text-align: center;color: #ff980e;}
 #main-nav a {font-family: "Caveat Brush";font-weight: normal;font-size: 1.5em;}
 #footer, #footer-logo, .footer-nav a, .footer-text {font-family: "Roboto";font-weight: 100;font-size: 20px;}
 #footer .footer-widgets .widgettitle {font-family: "Roboto";font-weight: 500;}
-@media screen and (max-width: 1280px) {body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;color: #ff950d;}
+@media screen and (max-width: 1280px) {body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;color: #ff950d;display: none;}
 	#site-description {font-weight: normal;}
+	#main-nav a {font-weight: normal;}
 	#footer, #footer-logo, .footer-nav a, .footer-text {font-weight: 100;}
 	#footer .footer-widgets .widgettitle {font-weight: 500;}}
-@media screen and (max-width: 768px) {body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;}
+@media screen and (max-width: 768px) {body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;display: none;}
 	#site-description {font-weight: normal;}
+	#main-nav a {font-weight: normal;}
 	#footer, #footer-logo, .footer-nav a, .footer-text {font-weight: 100;}
 	#footer .footer-widgets .widgettitle {font-weight: 500;}}
-@media screen and (max-width: 680px) {body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;color: #ff950d;}
+@media screen and (max-width: 680px) {body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;color: #ff950d;display: none;}
 	#site-description {font-weight: normal;}
+	#main-nav a {font-weight: normal;}
 	#footer, #footer-logo, .footer-nav a, .footer-text {font-weight: 100;}
 	#footer .footer-widgets .widgettitle {font-weight: 500;}}
+.mobile_menu_active #headerwrap .sidemenu-on nav li a {font-family: "Caveat Brush";font-weight: normal;font-size: 100%;}
