@@ -1,5 +1,6 @@
-body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;font-size: 22px;color: #ff950d;}
+body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: normal;font-size: .8em;color: #ff950d;}
 #site-description {font-family: "Caveat Brush";font-weight: normal;text-align: left;color: #fff;display: none;}
+#main-nav a {font-family: "Caveat Brush";font-weight: normal;font-size: 1.5em;}
 #footer, #footer-logo, .footer-nav a, .footer-text {font-family: "Roboto";font-weight: 100;font-size: 20px;}
 #footer .footer-widgets .widgettitle {font-family: "Roboto";font-weight: 500;}
 @media screen and (max-width: 1280px) {body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;color: #ff950d;}
