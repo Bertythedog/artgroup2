@@ -1,6 +1,7 @@
 body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: normal;font-size: 100%;text-align: left;color: #ff950d;display: none;}
 #site-description {font-family: "Caveat Brush";font-weight: normal;font-size: 125%;text-align: center;color: #ff980e;}
 #main-nav a {font-family: "Caveat Brush";font-weight: normal;font-size: 1.5em;}
+#main-nav ul a, #main-nav .current_page_item ul a, #main-nav ul .current_page_item a, #main-nav .current-menu-item ul a, #main-nav ul .current-menu-item a, #main-nav .has-mega-column > .sub-menu a {background: none;background-color: #1bbbb4;}
 #footer, #footer-logo, .footer-nav a, .footer-text {font-family: "Roboto";font-weight: 100;font-size: 20px;}
 #footer .footer-widgets .widgettitle {font-family: "Roboto";font-weight: 500;}
 @media screen and (max-width: 1280px) {body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;color: #ff950d;display: none;}
