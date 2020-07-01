@@ -18,4 +18,7 @@ body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: no
 	#main-nav a {font-weight: normal;}
 	#footer, #footer-logo, .footer-nav a, .footer-text {font-weight: 100;}
 	#footer .footer-widgets .widgettitle {font-weight: 500;}}
-.mobile_menu_active #headerwrap .sidemenu-on nav li a {font-family: "Caveat Brush";font-weight: normal;font-size: 100%;}
+.mobile-menu-visible.header-slide-out .sidemenu-on, .mobile_menu_active.header-leftpane #headerwrap, .mobile_menu_active.header-rightpane #headerwrap, .mobile_menu_active #headerwrap .sidemenu-on {background: none;background-color: #1bbbb4;}
+.mobile-menu-visible.header-slide-out .sidemenu-on, .mobile_menu_active.header-leftpane #headerwrap, .mobile_menu_active.header-rightpane #headerwrap, .mobile_menu_active #headerwrap .sidemenu-on {color: #ee2312;}
+.mobile-menu-visible.header-slide-out .sidemenu-on a, .mobile_menu_active.header-leftpane #headerwrap a, .mobile_menu_active.header-rightpane #headerwrap a, .mobile_menu_active #headerwrap .sidemenu.sidemenu-on a {color: #f02;}
+.mobile_menu_active #headerwrap .sidemenu-on nav li a {font-family: "Caveat Brush";font-weight: normal;font-size: 130%;text-align: center;}
