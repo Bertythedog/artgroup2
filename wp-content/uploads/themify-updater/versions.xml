@@ -31,7 +31,7 @@
 	<version name="builder-progress-bar" promo_name="progress-bar" type="plugin">1.2.0</version>
 	<version name="builder-fittext" promo_name="fittext" type="plugin">1.1.9</version>
 	<version name="builder-counter" promo_name="counter" type="plugin">1.2.3</version>
-	<version name="builder-contact" promo_name="contact" type="plugin">1.4.6</version>
+	<version name="builder-contact" promo_name="contact" type="plugin">1.4.7</version>
 	<version name="builder-button" promo_name="button" type="plugin">1.3.2</version>
 	<version name="builder-ab-image" promo_name="ab-image" type="plugin">1.2.0</version>
 	<version name="builder-timeline" promo_name="timeline" type="plugin">1.2.4</version>
