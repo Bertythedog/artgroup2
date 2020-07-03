@@ -1,20 +1,25 @@
+#header {font-weight: normal;}
 body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: normal;font-size: 80%;text-align: left;color: #ff950d;}
 #site-description {font-family: "Caveat Brush";font-weight: normal;font-size: 125%;text-align: center;color: #ff980e;display: none;position: fixed;top: auto;left: auto;}
 #main-nav a {font-family: "Caveat Brush";font-weight: normal;font-size: 1.5em;}
 #main-nav ul a, #main-nav .current_page_item ul a, #main-nav ul .current_page_item a, #main-nav .current-menu-item ul a, #main-nav ul .current-menu-item a, #main-nav .has-mega-column > .sub-menu a {background: none;background-color: #1bbbb4;}
 #footer, #footer-logo, .footer-nav a, .footer-text {font-family: "Roboto";font-weight: 100;font-size: 20px;}
 #footer .footer-widgets .widgettitle {font-family: "Roboto";font-weight: 500;}
-@media screen and (max-width: 1280px) {body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: normal;font-size: 60%;color: #ff950d;}
+@media screen and (max-width: 1280px) {#header {font-family: "Caveat Brush";font-weight: normal;}
+	body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: normal;font-size: 40%;color: #ff950d;}
+	#site-description {font-weight: normal;}
+	#main-nav a {font-weight: normal;font-size: 80%;text-align: left;}
+	#main-nav ul a, #main-nav .current_page_item ul a, #main-nav ul .current_page_item a, #main-nav .current-menu-item ul a, #main-nav ul .current-menu-item a, #main-nav .has-mega-column > .sub-menu a {background: none;background-color: #1bbbb4;}
+	#footer, #footer-logo, .footer-nav a, .footer-text {font-weight: 100;}
+	#footer .footer-widgets .widgettitle {font-weight: 500;}}
+@media screen and (max-width: 768px) {#header {font-family: "Caveat Brush";font-weight: normal;}
+	body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: normal;font-size: 80%;}
 	#site-description {font-weight: normal;}
 	#main-nav a {font-weight: normal;}
 	#footer, #footer-logo, .footer-nav a, .footer-text {font-weight: 100;}
 	#footer .footer-widgets .widgettitle {font-weight: 500;}}
-@media screen and (max-width: 768px) {body[class*="themify"] #site-logo a {font-family: "Trebuchet MS","Arial","Helvetica",sans-serif;font-weight: normal;font-size: 80%;}
-	#site-description {font-weight: normal;}
-	#main-nav a {font-weight: normal;}
-	#footer, #footer-logo, .footer-nav a, .footer-text {font-weight: 100;}
-	#footer .footer-widgets .widgettitle {font-weight: 500;}}
-@media screen and (max-width: 680px) {body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: normal;font-size: 85%;text-align: center;color: #ff950d;}
+@media screen and (max-width: 680px) {#header {font-family: "Caveat Brush";font-weight: normal;}
+	body[class*="themify"] #site-logo a {font-family: "Caveat Brush";font-weight: normal;font-size: 85%;text-align: center;color: #ff950d;}
 	#site-description {font-weight: normal;}
 	#main-nav a {font-weight: normal;}
 	#main-nav ul a, #main-nav .current_page_item ul a, #main-nav ul .current_page_item a, #main-nav .current-menu-item ul a, #main-nav ul .current-menu-item a, #main-nav .has-mega-column > .sub-menu a {background: none;background-color: #1bbbb4;}
