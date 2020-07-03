@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <versions>
+	<version name="themify-shoppe-beta" type="theme">1.0.0</version>
 	<version name="">1.0.0</version>
 	<version name="themify-ptb" promo_name="post-type-builder" type="plugin">1.6.3</version>	
 	<version name="themify-ptb-extra-fields" promo_name="extra-fields" type="plugin">1.4.5</version>	
