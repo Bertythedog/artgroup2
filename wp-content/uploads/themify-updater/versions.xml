@@ -36,7 +36,7 @@
 	<version name="builder-button" promo_name="button" type="plugin">1.3.2</version>
 	<version name="builder-ab-image" promo_name="ab-image" type="plugin">1.2.0</version>
 	<version name="builder-timeline" promo_name="timeline" type="plugin">1.2.4</version>
-	<version name="builder-woocommerce" promo_name="woocommerce" type="plugin">1.4.4</version>
+	<version name="builder-woocommerce" promo_name="woocommerce" type="plugin">1.4.5</version>
 	<version name="builder-audio" promo_name="audio" type="plugin">1.2.5</version>
 	<version name="builder-mosaic" promo_name="mosaic" type="plugin">1.1.3</version>
 	<version name="themify-builder" promo_name="builder" free="true" wp_hosted="true" type="plugin">4.7.2</version>
